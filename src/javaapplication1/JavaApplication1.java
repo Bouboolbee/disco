@@ -17,8 +17,9 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         int s1=2;
         int s2=3;
+        int d1=4;
         int s;
-        s=s1+s2;
+        s=s1+s2+d1;
         
         System.out.println(s);
         
